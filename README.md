@@ -1,4 +1,4 @@
-# RockPaperScissorsDectector
+# Rock-Paper-Scissors-Detector
 As the name suggests, it is a program to recognize the three gestures "Rock", "Paper", "Scissors" from a webcam in real-time. 
 
 It uses Google's "Mediapipe" library for hand recognition and OpenCV for the webcam image. 
